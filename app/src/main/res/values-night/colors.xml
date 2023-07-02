@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    logo's violet = #151F44
+    <color name="appbar">#000000</color>
+    <color name="colorBg">#303030</color>
+    <color name="light_grey">#808080</color>
+    <color name="text">#ffffff</color>
+    <color name="card">#5c5c5c</color>
+
+
+</resources>
